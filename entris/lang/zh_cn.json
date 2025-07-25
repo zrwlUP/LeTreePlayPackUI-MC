@@ -1,0 +1,11 @@
+{
+  "category.entris.entris": "Entris",
+  "key.entris.left": "左移",
+  "key.entris.right": "右移",
+  "key.entris.down": "软降",
+  "key.entris.up": "逆时针旋转",
+  "key.entris.hold": "储存方块",
+  "key.entris.hard_drop": "硬降",
+  "key.entris.right_rotate": "顺时针旋转（←↑→↓默认建议↑绑定）",
+  "key.entris.left_rotate": "逆时针旋转"
+}
